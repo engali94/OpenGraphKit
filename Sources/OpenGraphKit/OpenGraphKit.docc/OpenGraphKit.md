@@ -60,9 +60,6 @@ With OpenGraphKit, you can:
 - 🖼 Generate image galleries from web content
 - 📊 Analyze and categorize web pages based on their metadata
 
-<!--## Diving Deeper-->
-<!---->
-<!--Explore our comprehensive documentation to learn more about:-->
-<!---->
-<!--- [OpenGraphParser](OpenGraphParser.md): The core class for all your parsing needs.-->
-<!--- [OpenGraphMetadata](OpenGraphMetadata.md): Understanding the structure of parsed metadata.-->
+## Diving Deeper
+- <doc:OpenGraphParser>
+- <doc:OpenGraphMetadata>
