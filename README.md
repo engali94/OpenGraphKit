@@ -25,7 +25,7 @@ dependencies: [
 To integrate OpenGraphKit into your Xcode project using Swift Package Index, follow these steps:
 
 1. In Xcode, select "File" → "Add Packages..."
-2. Enter the URL: `https://github.com/[yourusername]/OpenGraphKit.git`
+2. Enter the URL: `https://github.com/engali94/OpenGraphKit.git`
 3. Select the version rule that fits your needs (e.g., "Up to Next Major" for automatic updates to new versions)
 4. Click "Add Package"
 
